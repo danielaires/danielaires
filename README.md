@@ -1,7 +1,7 @@
 ### Ola! sou Daniel Aires 🖖
 
-- 🧑‍💻 Estudando Spring Boot
-- 🌱 Especializando area de backend Java
+- 🧑‍💻 Estudando Python
+- 🌱 Especializando area de backend Python
 
 
 <div align="center">
