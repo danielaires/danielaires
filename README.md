@@ -1,6 +1,7 @@
 ### Ola! sou Daniel Aires 🖖
 
-- 🧑‍💻 Estudando Python
+- 🧑‍💻 Python Developer
 - 🌱 Especializando area de backend Python
+- Django
 
 
