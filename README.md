@@ -1,4 +1,4 @@
-## 👋 Olá, bem-vindo ao meu perfil do Github
+## 👋 Hello, welcome to my Github profile
 
 - Meu nome é Daniel e sou Desenvolvedor Java, do TO, Brasil 🇧🇷
 
