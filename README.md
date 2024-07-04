@@ -1,10 +1,10 @@
 ## 👋 Hello, welcome to my Github profile
 
-- Meu nome é Daniel e sou Desenvolvedor Java, do TO, Brasil 🇧🇷
+- My name is Daniel and I'm a Java Developer, from TO, Brazil 🇧🇷
 
 ## About Me
-- Gosto de tecnologias desde de pequeno sempre buscando aprimorar meus conhecimentos
-- Tive o privilégio de participar de trainner da empresa CRP Tecnologia e apartir dali aumentou o desejo pela programação
+- I have loved technology since I was little, always looking to improve my knowledge
+- I had the privilege of being a trainer at the company CRP Tecnologia and from then on my desire for programming increased
 
 ## My Techs
 <div align="left">
