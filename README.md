@@ -4,9 +4,7 @@
 
 ## My Techs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
