@@ -1,6 +1,6 @@
 ## 👋 Hello, welcome to my Github profile
 
-- My name is Daniel and I'm a programador em PHP, from TO, Brazil 🇧🇷
+- My name is Daniel and I'm a programador em Java, from TO, Brazil 🇧🇷
 
 ## My Techs
 <div align="left">
