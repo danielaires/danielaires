@@ -10,7 +10,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
