@@ -5,7 +5,7 @@
 <!-- gif animated -->
 <img align="right" alt="gif dev" width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 
-- ⚡ Sou desenvolvedor backend Java
+- ⚡ Sou desenvolvedor backend 
 - 📫 How to reach me **danielaires95@gmail.com**
 
 ---
