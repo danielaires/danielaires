@@ -59,14 +59,8 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
 </a>
 
-<!-- JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> -->
-
-<a href="https://www.php.net/docs.php">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/php.svg">
-</a>
-
-
+<JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> 
 
 </p>
 
@@ -82,9 +76,6 @@
 </a>
 <a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
