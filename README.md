@@ -5,11 +5,6 @@
 <!-- gif animated -->
 <img align="right" alt="gif dev" width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amomsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="amomsantos07"></p>
-
-
 - ⚡ Sou desenvolvedor backend Java
 - 📫 How to reach me **danielaires95@gmail.com**
 
