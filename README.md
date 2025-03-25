@@ -38,28 +38,11 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
 </a>
 
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/laravel.svg" alt="laravel">
-</a>
-
-<a href="https://www.djangoproject.com/">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="111" alt="Django">
-</a>
-
-<!--a href="https://angular.io/">
+<a href="https://angular.io/">
 <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
-</a -->
-
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/js.svg">
 </a>
 
-<a href="https://docs.python.org/3/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
-</a>
-
-<JAVA UPCOMING <a href="https://docs.oracle.com/en/java/">
+ <a href="https://docs.oracle.com/en/java/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> 
 
 </p>
@@ -71,7 +54,7 @@
 <a href="https://git-scm.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://github.com/amomsantos07">
+<a href="https://github.com/danielaires">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/">
