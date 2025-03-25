@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amomsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="amomsantos07"></p>
 
 
+- ⚡ Sou desenvolvedor backend Java
 - 📫 How to reach me **danielaires95@gmail.com**
 
-- ⚡ Fun fact **A little bit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
