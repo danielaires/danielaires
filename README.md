@@ -13,17 +13,6 @@
 - ⚡ Sou desenvolvedor backend Java
 - 📫 How to reach me **danielaires95@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/amomsantos07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amomsantos07" height="30" width="40" /></a>
-<a href="https://dev.to/amomsantos07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amomsantos07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amomsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amomsantos" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19378599/amomsantos07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amomsantos07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amomsantos07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amomsantos07" height="30" width="40" /></a>
-<a href="https://discord.gg/Amom Santos#6294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amom Santos" height="30" width="40" /></a>
-</p>
-
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
 <h2 align="center">My Tech Stack 🧰</h2>
