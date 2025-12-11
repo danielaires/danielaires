@@ -1,61 +1,62 @@
-<h1 align="center">Hi 👋, I'm Daniel Aires</h1>
+<h1 align="center">👋 Olá, eu sou o Daniel Aires</h1>
 
-<h2 align="center"></h2>
-
-<!-- gif animated -->
-<img align="right" alt="gif dev" width="400" src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
-
-- ⚡ Sou desenvolvedor backend 
-- 📫 How to reach me **danielaires95@gmail.com**
-
----
-<!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/html.svg">
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a>
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap">
-</a>
+  <img src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350" alt="gif dev">
+</p>
 
-<a href="https://angular.io/">
-<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" width="101.8" alt="angular">
-</a>
-
- <a href="https://docs.oracle.com/en/java/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg"></a> 
-
+<p align="center">
+Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Busco minha primeira oportunidade como Desenvolvedor Backend para aplicar meus conhecimentos, contribuir em equipes ágeis e evoluir continuamente. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
 </p>
 
 ---
 
-<h2 align="center">Languages and Tools</h2> 
+## 🚀 **Tecnologias que eu uso no dia a dia**
+
+<h3 align="center">Backend & Frameworks</h3>
 <p align="center">
-<a href="https://git-scm.com">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://github.com/danielaires">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://code.visualstudio.com/">
-<!-- img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/eclipse.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a -->
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/spring.svg" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/metodologias/rest.svg" />
+</p>
+
+<h3 align="center">Banco de Dados & ORM</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/database/postgresql.svg" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/hibernate.svg" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jpa.svg" />
+</p>
+
+<h3 align="center">Controle de Versão & Plataformas</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" />
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" />
+</p>
+
+<h3 align="center">Testes & Qualidade</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/junit.svg" />
+</p>
+
+<h3 align="center">Metodologias Ágeis</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/methodologies/scrum.svg" />
 </p>
 
 ---
 
-<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+## 📊 **Meus Stats no GitHub**
 
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="0" /> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires95&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires95&layout=compact&theme=tokyonight"/>
+</p>
 
-<h3 align="center">Goodbye 👊</h3>
+---
+
+## ✉️ **Como falar comigo**
+- 📧 Email: **danielaires95@gmail.com**
+- 🔗 GitHub: <a href="https://github.com/danielaires">github.com/danielaires</a>
+
+---
+
+<h3 align="center">👊 Até logo!</h3>
