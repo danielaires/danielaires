@@ -1,10 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Daniel Aires</h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="350" alt="gif dev">
-</p>
-
-<p align="center">
 Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Busco minha primeira oportunidade como Desenvolvedor Backend para aplicar meus conhecimentos, contribuir em equipes ágeis e evoluir continuamente. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
 </p>
 
