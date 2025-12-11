@@ -1,58 +1,63 @@
-<h1 align="center">👋 Olá, eu sou o Daniel Aires</h1>
+<h1 align="center">Hi 👋, I'm Daniel Aires</h1>
+<h3 align="center">Backend Developer | Java Specialist</h3>
+
+<div align="center">
+  <img src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="400" alt="coding gif"/>
+</div>
+
+<br/>
 
 <p align="center">
-Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Busco minha primeira oportunidade como Desenvolvedor Backend para aplicar meus conhecimentos, contribuir em equipes ágeis e evoluir continuamente. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
+ ⚡ Desenvolvedor focado em construir soluções robustas e escaláveis. <br/>
+ Apaixonado por arquitetura de software, <b>APIs REST</b> e boas práticas de código.
+</p>
+
+<p align="center">
+  📫 How to reach me: <a href="mailto:danielaires95@gmail.com"><b>danielaires95@gmail.com</b></a>
 </p>
 
 ---
 
-## 🚀 **Tecnologias que eu uso no dia a dia**
+<h2 align="center">🛠️ My Tech Stack</h2>
 
-<h3 align="center">Backend & Frameworks</h3>
+<h3 align="center">Backend & Core</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/java.svg" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/spring.svg" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/metodologias/rest.svg" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 </p>
 
-<h3 align="center">Banco de Dados & ORM</h3>
+<h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/database/postgresql.svg" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/hibernate.svg" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jpa.svg" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-<h3 align="center">Controle de Versão & Plataformas</h3>
+<h3 align="center">Tools & Methodology</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" />
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/scrum-205C8C?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
 </p>
 
-<h3 align="center">Testes & Qualidade</h3>
+<h3 align="center">Frontend Knowledge</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/junit.svg" />
-</p>
-
-<h3 align="center">Metodologias Ágeis</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/methodologies/scrum.svg" />
-</p>
-
----
-
-## 📊 **Meus Stats no GitHub**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires95&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires95&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
 ---
 
-## ✉️ **Como falar comigo**
-- 📧 Email: **danielaires95@gmail.com**
-- 🔗 GitHub: <a href="https://github.com/danielaires">github.com/danielaires</a>
+<h2 align="center">📊 GitHub Stats</h2>
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires&layout=compact&theme=dracula"/>
+</div>
 
-<h3 align="center">👊 Até logo!</h3>
+<br/>
+
+<h3 align="center">Let's code! 👊</h3>
