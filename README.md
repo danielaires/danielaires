@@ -48,10 +48,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires95&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires95&layout=compact&theme=tokyonight"/>
-</p>
+## ✉️ **Como falar comigo**
+- 📧 Email: **danielaires95@gmail.com**
+- 🔗 GitHub: <a href="https://github.com/danielaires">github.com/danielaires</a>
+
+---
 
 <br/>
 
