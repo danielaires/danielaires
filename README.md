@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Aires</h1>
 <h3 align="center">Backend Developer | Java Specialist</h3>
 
-<div align="center">
-  <img src="https://c.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="400" alt="coding gif"/>
-</div>
-
 <br/>
 
 <p align="center">
- ⚡ Desenvolvedor focado em construir soluções robustas e escaláveis. <br/>
- Apaixonado por arquitetura de software, <b>APIs REST</b> e boas práticas de código.
+ Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Busco minha primeira oportunidade como Desenvolvedor Backend para aplicar meus conhecimentos, contribuir em equipes ágeis e evoluir continuamente. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
 </p>
 
 <p align="center">
@@ -53,10 +48,10 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaires95&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaires95&layout=compact&theme=tokyonight"/>
+</p>
 
 <br/>
 
