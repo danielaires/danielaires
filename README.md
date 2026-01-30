@@ -7,10 +7,6 @@
  Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
 </p>
 
-<p align="center">
-  📫 How to reach me: <a href="mailto:danielaires95@gmail.com"><b>danielaires95@gmail.com</b></a>
-</p>
-
 ---
 
 <h2 align="center">🛠️ My Tech Stack</h2>
@@ -47,13 +43,5 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-## ✉️ **Como falar comigo**
-- 📧 Email: **danielaires95@gmail.com**
-- 🔗 GitHub: <a href="https://github.com/danielaires">github.com/danielaires</a>
-
----
-
-<br/>
 
 <h3 align="center">Let's code! 👊</h3>
