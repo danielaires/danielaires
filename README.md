@@ -4,7 +4,9 @@
 <br/>
 
 <p align="center">
- Sou desenvolvedor Backend focado em Java e Spring Boot, com experiência prática no desenvolvimento de APIs RESTful, testes automatizados e integração com bancos de dados relacionais. Minha vivência em suporte e infraestrutura de TI fortalece minha visão técnica, minha capacidade de resolução de problemas e minha atuação em ambientes dinâmicos. Tenho facilidade para aprender, atenção aos detalhes e grande interesse em boas práticas como Clean Code, SOLID e arquitetura escalável.
+👋 Olá! Sou Desenvolvedor Backend focado em Java & Spring Boot.
+
+Com uma base sólida em programação, desenvolvi um forte raciocínio lógico e grande facilidade para arquitetar e resolver problemas complexos. Hoje, construo sistemas robustos e APIs RESTful escaláveis com Java e Spring Boot, sempre priorizando a performance, a segurança e a entrega de código limpo.
 </p>
 
 ---
