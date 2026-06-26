@@ -119,3 +119,9 @@ Sistema Full Stack para gestão de academias desenvolvido com Java, Spring Boot,
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+💡 "Acredito que aprender continuamente e construir projetos reais é a melhor forma de evoluir como desenvolvedor."
+
+</p>
