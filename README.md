@@ -13,7 +13,6 @@ Atualmente construo aplicações Full Stack utilizando <strong>Java, Spring Boot
 
 Meu principal projeto é o <strong>Studio Gaspar</strong>, um sistema completo para gestão de academias que inclui autenticação com JWT, controle de alunos, avaliações físicas, mensalidades, dashboard, relatórios e integração com WhatsApp.
 
-Estou em busca da minha primeira oportunidade como Desenvolvedor Java Júnior para continuar evoluindo e contribuir com projetos reais.
 </p>
 
 ---
@@ -119,4 +118,10 @@ Sistema Full Stack para gestão de academias desenvolvido com Java, Spring Boot,
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+💡 "Acredito que aprender continuamente e construir projetos reais é a melhor forma de evoluir como desenvolvedor."
+
+</p>
 
